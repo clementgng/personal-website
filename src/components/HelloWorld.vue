@@ -32,7 +32,10 @@
 
     <span>
       <form method="POST" action="http://formspree.io/cgng16@gmail.com">
-        <input type="email" name="_replyto" /><textarea name="body"></textarea
+        <input type="email" name="_replyto" placeholder="Your Email" /><textarea
+          name="body"
+          placeholder="Your message"
+        ></textarea
         ><input type="submit" value="Send" />
       </form>
     </span>
