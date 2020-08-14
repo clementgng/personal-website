@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/nyc.jpg" width="750" height="422" />
+    <img alt="Vue logo" src="./assets/nyc.jpg" width="1125" height="633" />
     <HelloWorld msg="Clement Ng" />
   </div>
 </template>
