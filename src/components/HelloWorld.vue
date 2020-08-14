@@ -15,13 +15,23 @@
           href="https://www.linkedin.com/in/clement-ng-b6b48669/"
           target="_blank"
           rel="noopener"
-          >LinkedIn</a
-        >
+          ><img
+            class="img-responsize img-circle logo"
+            id="logos"
+            src="asset/lk.png"
+          />
+        </a>
       </li>
       <li>
-        <a href="https://github.com/clementgng" target="_blank" rel="noopener"
-          >Git</a
-        >
+        <a
+          href="https://github.com/clementgng"
+          target="_blank"
+          rel="noopener"
+          <img
+          class="img-responsize img-circle logo"
+          id="logos"
+          src="asset/git.png"
+        ></a>
       </li>
     </ul>
     <h3>Installed CLI Plugins</h3>
