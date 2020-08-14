@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-    <h1>Connect</h1>
+    <h1 style="font-size:70px">{{ msg }}</h1>
+    <h1>Let's connect!</h1>
     <ul>
       <li>
         <a
@@ -34,15 +34,16 @@
       <form method="POST" action="https://formspree.io/mdowjjkn">
         <input type="email" name="_replyto" placeholder="Your Email" /><textarea
           name="body"
-          placeholder="Your message"
+          placeholder="Paste your message here"
         ></textarea
         ><input type="submit" value="Send" />
       </form>
     </span>
-
-    <span class="rights container-fluid bottom">
-      <p>Copyright © 2020 ClementNg Design</p>
-    </span>
+    <div v-if="false">
+      <span class="rights container-fluid bottom">
+        <p>Copyright © 2020 ClementNg Design</p>
+      </span>
+    </div>
   </div>
 </template>
 

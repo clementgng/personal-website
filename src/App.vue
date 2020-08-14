@@ -17,10 +17,6 @@ export default {
 </script>
 
 <style>
-main {
-  background-image: url("./assets/logo.png");
-  background-size: cover;
-}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
