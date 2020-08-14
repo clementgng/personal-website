@@ -38,12 +38,6 @@
         ></textarea
         ><input type="submit" value="Send" />
       </form>
-    </span>
-    <div v-if="false">
-      <span class="rights container-fluid bottom">
-        <p>Copyright © 2020 ClementNg Design</p>
-      </span>
-    </div>
   </div>
 </template>
 
