@@ -31,7 +31,7 @@
     </ul>
 
     <span>
-      <form action="http://formspree.io/cgng16@gmail.com">
+      <form method="POST" action="http://formspree.io/cgng16@gmail.com">
         <input type="email" name="_replyto" /><textarea name="body"></textarea
         ><input type="submit" value="Send" />
       </form>
