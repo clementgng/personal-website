@@ -32,11 +32,9 @@
 
     <span>
       <form method="POST" action="https://formspree.io/mdowjjkn">
-        <input type="email" name="_replyto" placeholder="Your Email" /><textarea
-          name="body"
-          placeholder="Paste your message here"
-        ></textarea
-        ><input type="submit" value="Send" />
+        <input type="email" name="_replyto" placeholder="Your Email" />
+        <textarea name="body" placeholder="Paste your message here"></textarea>
+        <input type="submit" value="Send" />
       </form>
     </span>
   </div>
