@@ -38,6 +38,7 @@
         ></textarea
         ><input type="submit" value="Send" />
       </form>
+    </span>
   </div>
 </template>
 
